@@ -1,132 +1,109 @@
-🛒 Blinkit Sales Analysis (Power BI)
-📌 Business Objective
+## 🛒** Blinkit Sales Analysis (Power BI)**  
+**Business Objective**  
 
-To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution in order to uncover key insights and optimization opportunities using KPIs and interactive Power BI visualizations.
+To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and optimization opportunities using KPIs and visualizations in Power BI.  
 
-📊 Key Performance Indicators (KPIs)
+📊 **Key Performance Indicators (KPIs)**  
 
-Total Sales: Overall revenue generated from all items sold
+Total Sales  
+The overall revenue generated from all items sold.  
 
-Average Sales: Average revenue per transaction
+Average Sales  
+The average revenue per sale.  
 
-Number of Items: Total count of distinct items sold
+Number of Items
+The total count of different items sold.
 
-Average Rating: Mean customer rating across all sold items
+Average Rating
+The average customer rating for items sold.  
 
-📈 Analytical Requirements & Visualizations
-1️⃣ Total Sales by Fat Content
+📈 **Analytical Requirements & Visualizations**
+1. Total Sales by Fat Content
 
-Objective:
+**Objective**
 Analyze the impact of fat content on total sales.
 
-Additional Metrics:
+**Additional KPI Metrics**
+Average Sales, Number of Items, Average Rating.
 
-Average Sales
+**Chart Type**
+Donut Chart.
 
-Number of Items
+**2. Total Sales by Item Type**
 
-Average Rating
+**Objective:**
+Identify the performance of different item types in terms of total sales.
 
-Visualization:
+**Additional KPI Metrics**
+Average Sales, Number of Items, Average Rating.  
 
-Donut Chart
+**Chart Type**
+Bar Chart.
 
-2️⃣ Total Sales by Item Type
+**3. Fat Content by Outlet for Total Sales**
 
-Objective:
-Identify the performance of different item categories based on total sales.
+**Objective**
+Compare total sales across different outlets segmented by fat content.
 
-Additional Metrics:
+**Additional KPI Metrics**
+Average Sales, Number of Items, Average Rating.
 
-Average Sales
+**Chart Type**
+Stacked Column Chart.
 
-Number of Items
+**4. Total Sales by Outlet Establishment**
 
-Average Rating
+**Objective**
+Evaluate how the age or type of outlet establishment influences total sales.
 
-Visualization:
+**Chart Type**
+Line Chart.
 
-Bar Chart
+**5. Sales by Outlet Size**
 
-3️⃣ Fat Content by Outlet for Total Sales
+**Objective**
+Analyze the correlation between outlet size and total sales.
 
-Objective:
-Compare total sales across outlets segmented by fat content.
+**Chart Type**
+Donut Chart.
 
-Additional Metrics:
+**6. Sales by Outlet Location**
 
-Average Sales
+**Objective**
+Assess the geographic distribution of sales across different locations.
 
-Number of Items
+**Chart Type**
+Funnel Map.
 
-Average Rating
+**7. All Metrics by Outlet Type**
 
-Visualization:
+**Objective**
+Provide a comprehensive view of all key metrics broken down by different outlet types.
 
-Stacked Column Chart
+**Metrics Included**
+Total Sales, Average Sales, Number of Items, Average Rating.
 
-4️⃣ Total Sales by Outlet Establishment
+**Chart Type**
+Matrix Card.
 
-Objective:
-Evaluate how outlet establishment year or type influences total sales trends.
+🧠 **Key Insights & Outcomes**
 
-Visualization:
-
-Line Chart
-
-5️⃣ Sales by Outlet Size
-
-Objective:
-Analyze the correlation between outlet size and total sales performance.
-
-Visualization:
-
-Donut Chart
-
-6️⃣ Sales by Outlet Location
-
-Objective:
-Assess the geographic distribution of sales across different outlet locations.
-
-Visualization:
-
-Funnel Map
-
-7️⃣ All Metrics by Outlet Type
-
-Objective:
-Provide a consolidated view of all KPIs across different outlet types.
-
-Metrics Included:
-
-Total Sales
-
-Average Sales
-
-Number of Items
-
-Average Rating
-
-Visualization:
-
-Matrix Card
-
-🧠 Key Outcomes
-
-Identified high-performing product categories and outlet types
+Identified high-performing item categories and outlet types
 
 Analyzed customer preferences based on fat content
 
-Evaluated sales trends across outlet size, age, and location
+Evaluated sales trends across outlet size, location, and establishment type
 
-Enabled data-driven decision-making through interactive dashboards
+Enabled data-driven decision-making through interactive Power BI dashboards
 
-🛠️ Tools Used
+🛠️ **Tools & Technologies Used**
 
 Power BI
 
 DAX
 
-Data Modeling & KPI Design
+Data Modeling
+
+KPI Design
 
 Interactive Visual Analytics
